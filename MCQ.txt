@@ -1,0 +1,310 @@
+JAVA MCQ
+
+1. Which statement is true about Java?
+ans: Java is a platform-independent programming language
+
+2.Which component is used to compile, debug and execute the java programs?
+ans: JDK
+
+3.Which one of the following is not a Java feature?
+ans:Use of pointers
+
+4.Which of these cannot be used for a variable name in Java?
+ans:  keyword
+
+5.What is the extension of java code files?
+ans: .java
+
+6.Which environment variable is used to set the java path?
+ans:  JAVA_HOME
+
+7.Which of the following is not an OOPS concept in Java?
+ans:  Compilation
+
+8. What is not the use of “this” keyword in Java?
+ans: Passing itself to the method of the same class
+
+9.Which of the following is a type of polymorphism in Java Programming?
+ans: Compile time polymorphism
+
+10.What is Truncation in Java?
+ans:Floating-point value assigned to an integer type
+
+11.What is the extension of compiled java classes?
+ans:  .class
+ 
+12.Which exception is thrown when java is out of memory?
+ans: OutOfMemoryError
+
+13.Which of these are selection statements in Java?
+ans: if()
+
+14.Which of these keywords is used to define interfaces in Java?
+ans: interface
+
+15.Which of the following is a superclass of every class in Java?
+ans: Object class
+
+16.Which of the below is not a Java Profiler?
+ans:  JVM
+
+17. Which of these packages contains the exception Stack Overflow in Java?
+ans: java.lang
+
+18. Which of these statements is incorrect about Thread?
+ans:  run() method is used to begin execution of a thread before start() method in special cases
+
+19.Which of these keywords are used for the block to be examined for exceptions?
+ans: try
+
+20.Which one of the following is not an access modifier?
+ans: void
+
+21.What is the numerical range of a char data type in Java?
+ans: 0 to 65535
+
+22.Which class provides system independent server side implementation?
+ans: ServerSocket
+
+23.Which of the following is true about servlets?
+ans: Servlets execute within the address space of web server, platform independent and uses the functionality of java class libraries
+
+24.What is the range of byte data type in Java?
+ans: -128 to 127
+
+25. An expression involving byte, int, and literal numbers is promoted to which of these?
+ans:  int
+
+26.Which of these literals can be contained in float data type variable?
+ans:  -3.4e+038
+
+27.Which data type value is returned by all transcendental math functions?
+ans: double
+
+28.Which of these keywords is used to define packages in Java?
+ans:package
+
+29.Which of these is a mechanism for naming and visibility control of a class and its content?
+ans: Package
+
+30. Which of this access specifies can be used for a class so that its members can be accessed by a different class in the same package?
+ans:Either we can use public, protected or we can name the class without any specifier.
+
+31.Which of these access specifiers can be used for a class so that its members can be accessed by a different class in the different package?
+ans: Public
+
+32. Which of the following is the correct way of importing an entire package ‘pkg’?
+ans: import pkg.*
+
+33.Which of the following package stores all the standard java classes?
+ans: java
+
+34.Which of this method can be used to make the main thread to be executed last among all the threads?
+ans: sleep()
+
+35.Which of this method is used to find out that a thread is still running or not?
+ans: isAlive()
+
+36.What is the default value of priority variable MIN_PRIORITY AND MAX_PRIORITY?
+ans: 1 & 10
+
+37.Which of these method waits for the thread to terminate?
+ans: join()
+
+38. Which of these method is used to explicitly set the priority of a thread?
+ans: setPriority()
+
+39.Which of these class is superclass of String and StringBuffer class?
+ans:  java.lang
+
+40. Which of these operators can be used to concatenate two or more String objects?
+ans:  +
+
+41.Which of this method of class String is used to obtain a length of String object?
+ans: length()
+
+42. Which of these method of class String is used to extract a single character from a String object?
+ans: charAt()
+
+43.Which of these constructors is used to create an empty String object?
+ans:String()
+
+44.Which of these is an incorrect statement?
+ans:StringBuffer class is used to create strings that can be modified after they are created.
+
+45.When does Exceptions in Java arises in code sequence?
+ans: Run Time
+
+46.Which of these keywords is not a part of exception handling?
+ans: Thrown
+
+47.Which of these keywords must be used to monitor for exceptions?
+ans: try
+
+48. Which of these keywords is used to manually throw an exception?
+ans: throw
+
+49.Which of the following is not an Enterprise Beans type?
+ans:Doubleton
+
+50. Which of the following is not true about Java beans?
+ans: Extends java.io.Serializable class
+
+
+PYTHON MCQ
+
+1.Which of the following is the correct extension of the Python file?   
+ans:- .py
+
+2. Is Python code compiled or interpreted?
+ans: Python code is neither compiled nor interpreted
+
+3. Which type of Programming does Python support
+ans :  object-oriented programming, structured programming , functional programming
+
+4. All keywords in Python are in ________
+ans : True, False and None are capitalized while the others are in lower case
+ 
+5.Which of the following is used to define a block of code in Python language?
+ans: Indentation
+
+6.Which keyword is used for function in Python language?
+ans: Def
+
+7.Which of the following character is used to give single-line comments in Python?
+ans: #
+
+8.Python supports the creation of anonymous functions at runtime, using a construct called ?
+ans: lambda
+
+9.What does pip stand for python?
+ans: Preferred Installer Program
+
+10.Which of the following functions is a built-in function in python?
+ans: print()
+
+11.Which of the following is the use of id() function in python?
+ans: Id returns the identity of the object
+
+12.Which of the following is not a core data type in Python programming?
+ans: Class
+
+13.What is the maximum possible length of an identifier?
+ans: The maximum possible length of an identifier is not defined in the python language. It
+can be of any number.
+
+14.. In which year was the Python language developed?
+ans:1989
+
+15.In which language is Python written?
+ans : C
+
+16.. Which of the following words cannot be a variable in python language?
+ans:. try
+
+17. Which one of the following has the same precedence level?
+ans: Division and Multiplication
+
+18. Which one of the following has the highest precedence in the expression?
+Ans: Parentheses
+
+19.Which of the following functions is a built-in function in python language?
+Ans:  print()
+
+20. What error will occur when you execute the following code?
+MANGO = APPLE
+Ans: NamaError
+
+21.How we install Numpy in the system ?
+Ans: pip install numpy
+
+22.Which one of the following is not a keyword in Python language?
+ans: eval
+
+23.Which module in the python standard library parses options received from the command line?
+ans: getotp
+
+24.What arithmetic operators cannot be used with strings in Python?
+ans:   -
+
+25. Which of the following statements is used to create an empty set in Python?
+ans : set()
+
+26.To add a new element to a list we use which Python command?
+ans:  list1.append(5)
+
+27. Which one of the following is the use of function in python?
+ans: Functions are reusable pieces of programs
+
+28.  What is the maximum possible length of an identifier in Python?
+ans: Identifiers can be of any length.
+
+29.What are the two main types of functions in Python?
+ans: Built-in function & User defined function
+
+30. Which of the following is a Python tuple?
+ans: (1, 2, 3)
+
+31.Which of the following is a feature of Python DocString?
+ans: Python has a nifty feature called documentation strings, usually referred to by its shorter name docstrings. DocStrings are an important tool that you should make use of since it helps to document the program better and makes it easier to understand.
+
+32.What is output of print(math.pow(3, 2))?
+ans:  9.0
+
+33.Which of the following is the use of id() function in python?
+ans : In Python Id function returns the identity of the object
+
+34. The process of pickling in Python includes
+ans: conversion of a Python object hierarchy into byte stream
+
+35.Which of the following is a disadvantage of decision trees?
+ans: Decision trees are prone to be overfit
+
+36.. How do you handle missing or corrupted data in a dataset?
+ans:  All of the above techniques are different ways of imputing the missing values
+
+37.Which of the following statements about regularization is not correct?
+ans:A large value results in a large regularization penalty and therefore, a strong preference
+for simpler models, which can underfit the data.
+
+38. Which of the following techniques can not be used for normalization in text mining?
+ans:Stop Word Removal
+
+39.In which of the following cases will K-means clustering fail to give good results?
+ans: K-means clustering algorithm fails to give good results when the data contains outliers,
+the density spread of data points across the data space is different, and the data points follow nonconvex shapes.
+
+40. What is the type of inf?
+ans:Float
+
+41. Which of the following expressions results in an error?
+ans:int(’10.8’)
+
+42. Which of the following expressions is an example of type conversion?
+ans: 4.0 + float(3)
+
+43.The expression 2**2**3 is evaluates as: (2**2)**3.
+ans : false
+ The value of the expression (2**2)**3 = 4**3 = 64. When the expression 2**2**3 is evaluated in python, we get the result as 256, because this expression is evaluated as 2**(2**3). This is because the associativity of exponentiation operator (**) is from right to left and not from left to right.
+
+44.Which of the following represents the bitwise XOR operator?
+ans: ^
+
+45.Which of the following commands will create a list?
+ans: Execute in the shell to verify
+
+46.What is the output when we execute list(“hello”)
+ans:  [‘h’, ‘e’, ‘l’, ‘l’, ‘o’]
+
+47.To shuffle the list(say list1) what function do we use?
+ans:  random.shuffle(list1)
+
+48.Which of these about a set is not true?
+ans:Immutable data type
+
+49.Which of the following statements create a dictionary?
+ans: Dictionaries are created by specifying keys and values.
+
+50.Which keyword is used for function?
+ans: Def
+

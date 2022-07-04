@@ -1,0 +1,56 @@
+git notes:
+
+* Git
+Git is software for tracking changes in any set of files, usually used for coordinating work among
+programmers collaboratively developing source code during software development
+
+*Gitbash
+Its an application for microsoft windows environment which provide an emultaion
+layer for a git cmmd line experience
+
+*GitHub
+It is a provider of Internet hosting for software development  and version control using Git.
+
+*Git Command
+1. git config
+-> This command sets the author name and email address respectively to be used with your commits
+
+2.git init
+-> used to start a new repository.
+
+3. git clone
+-> It is used to obtain a repository from an existing URL.
+
+4.git add
+-> This command adds a file
+
+5. git commit
+->This command records the file permanently in the version history
+
+6. git status
+-> lists all the files that have to be committed.
+
+7.git branch
+-> Used to create a new branch
+
+8.git push
+-> This command sends the branch commits to your remote repository.
+
+9. git pull
+->This command fetches and merges changes on the remote server to your working directory.
+
+We need to follow these steps which are mentioned below
+git init
+git add README.md
+git commit -m "My Code"
+git branch -M main
+git remote add origin https://github.com/manasi03101/Hexaware_3.git
+git push -u origin main		
+
+advantages of GitHub
+1.Collaboration
+2.Backup
+
+features of GitHub
+GitHub service includes access controls as well as collaboration features like task management
+repository hosting, and team management	
